@@ -1,0 +1,5 @@
+Type: KEYWORD, Lexeme: int
+Type: IDENTIFIER, Lexeme: x
+Type: OPERATOR, Lexeme: =
+Type: NUMBER, Lexeme: 42
+Type: SYMBOL, Lexeme: ;
